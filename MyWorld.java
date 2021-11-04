@@ -21,6 +21,7 @@ public class MyWorld extends World
         addObject(new seal(20, "ooga", 100), 250, 250);
         addObject(new seal(15, "ooga", 50), 250, 250);*/
         addObject(new seal(75, 20, "oog"),0,0);
+        addObject(new seal(70, 20, "oog"),200,100);
         
     }
 }
